@@ -1,0 +1,6 @@
+:root{
+    --primary-color: hsl(257, 40%, 49%);
+    --icon-hover-color: hsl(300, 69%, 71%);
+    --mobile-width: 375px;
+    --desktop-width: 1440px;
+}
